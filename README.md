@@ -27,11 +27,11 @@
 Donates goes into purchase for pencil and paper for next updates
 
 <p align="center">
-  <img src="https://dguard.github.io/papyroska-jan-8/core-lib/captures/BNB-logo.jpg" width="70" alt="bnb-lo\go" />
+  <img src="https://dguard.github.io/papyroska-jan-8/core-lib/captures/BNB-logo.png" width="70" alt="bnb-lo\go" />
 </p>
 
 <p align="center">
-  <img src="https://dguard.github.io/papyroska-jan-8/core-lib/captures/BNB-wallet.jpg" width="140" alt="BNB-wall\et" />
+  <img src="https://dguard.github.io/papyroska-jan-8/core-lib/captures/BNB-wallet.png" width="140" alt="BNB-wall\et" />
 </p>
 
 #### Update Strategy (knot read that)
