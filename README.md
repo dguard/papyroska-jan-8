@@ -34,6 +34,16 @@ Donates goes into purchase for pencil and paper for next updates
   <img src="https://dguard.github.io/papyroska-jan-8/core-lib/captures/BNB-wallet.png" width="140" alt="BNB-wall\et" />
 </p>
 
+#### Contact
+
+Join discord-channel for a chat and live-talk
+
+<p align="center">
+  <a href="https://discord.gg/eYm69mP6"><img src="https://sparkcdnwus2.azureedge.net/sparkimageassets/XPDC2RH70K22MN-08afd558-a61c-4a63-9171-d3f199738e9f" /></a>
+</p>
+
+
+
 #### Update Strategy (knot read that)
 
 we begin from bottom-statement <-
