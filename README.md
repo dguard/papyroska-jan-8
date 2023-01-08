@@ -15,7 +15,7 @@
 #### Picto sample
 
 <p align="center">
-  <img src="https://dguard.github.io/papyroska-jan-8/core-lib/captures/knot-castle-sample.png" width="400" alt="knot-cast\le" />
+  <img src="https://dguard.github.io/papyroska-jan-8/core-lib/captures/from-knot-castle-sample.png" width="400" alt="knot-cast\le" />
 </p>
 
 <p align="center">
