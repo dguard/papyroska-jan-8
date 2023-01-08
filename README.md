@@ -15,11 +15,11 @@
 #### Picto sample
 
 <p align="center">
-  <a href="#" target="blank"><img src="/captures/knot-castle-sample.png" width="400" alt="from-character" /></a>
+  <img src="captures/knot-castle-sample.png" width="400" alt="knot-cast\le" />
 </p>
 
 <p align="center">
-  <a href="#" target="blank"><img src="/captures/from-character.png" width="400" alt="from-character" /></a>
+  <img src="captures/from-character.png" width="400" alt="from-charact\er" />
 </p>
 
 #### Donate
@@ -27,11 +27,11 @@
 Donates goes into purchase for pencil and paper for next updates
 
 <p align="center">
-  <a href="#" target="blank"><img src="/captures/BNB-logo.jpg" width="70" alt="bnb-logo" /></a>
+  <img src="captures/BNB-logo.jpg" width="70" alt="bnb-lo\go" />
 </p>
 
 <p align="center">
-  <a href="#" target="blank"><img src="/captures/BNB-wallet.jpg" width="140" alt="BNB-wallet" /></a>
+  <img src="captures/BNB-wallet.jpg" width="140" alt="BNB-wall\et" />
 </p>
 
 #### Update Strategy (knot read that)
