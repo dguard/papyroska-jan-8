@@ -36,10 +36,6 @@ Donates goes into purchase for pencil and paper for next updates
 
 #### Update Strategy (knot read that)
 
-Strategy through pencil and knot. Do you remember knot one? I don't remember knot one
-
-why we need "calls"? why knot telegram?
-
 we begin from bottom-statement <-
 
 echo-locator (4)
